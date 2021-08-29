@@ -25,7 +25,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Call for Speakers
 
-Would you like to speak on the upcoming OWASP Vellore Webinar? [Contact Us](mailto:sagar.patra@owasp.org)
+Would you like to speak on the upcoming OWASP Jamshedpur Webinar? [Contact Us](mailto:sagar.patra@owasp.org)
 
 **Email Format :**
 
