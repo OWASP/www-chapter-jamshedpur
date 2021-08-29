@@ -2,9 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Jamshedpur
-tags: example-tag
+tags: jamshedpur
 region: Asia
 meetup-group: owasp-jamshedpur-chapter
+country: India
+postal-code: 831001
 
 ---
 
@@ -27,7 +29,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Welcome to OWASP Nagpur Chapter.The chapter leaders are <a href="mailto:sagar.patra@owasp.org">Sagar Patra</a>, <a href="mailto:prashant.gaurav@owasp.org">Prashant Gaurav</a>.The Chapter's vision is to spread awareness about the Application Security among not just the citizens of Nagpur but beyond that too.It will conduct meets every now and then about the trends in the security community.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
