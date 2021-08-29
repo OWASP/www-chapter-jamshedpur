@@ -11,7 +11,7 @@ postal-code: 831001
 ---
 
   <a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP20thAnniversary.png" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
-  <center><div style="width: 24em; height: 12em;"><a href="https://github.com/OWASP/www-chapter-jamshedpur"><img src="blob/main/OWAP%20JAMSHEDPUR%20LOGO.jpg" style="width: auto; height: auto;" alt="OWASP Nagpur"/></a></div></center>
+  <center><div style="width: 24em; height: 12em;"><a href="https://github.com/OWASP/www-chapter-jamshedpur"><img src="blob/main/OWAP%20JAMSHEDPUR%20LOGO.jpg" style="width: auto; height: auto;" alt="OWASP Jamshedpur"/></a></div></center>
 
 <div style='color:red;'>
 
