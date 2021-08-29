@@ -13,23 +13,6 @@ postal-code: 831001
   <a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP20thAnniversary.png" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
   <center><div style="width: 24em; height: 12em;"><a href="https://github.com/OWASP/www-chapter-jamshedpur"><img src="blob/main/OWAP%20JAMSHEDPUR%20LOGO.jpg" style="width: auto; height: auto;" alt="OWASP Jamshedpur"/></a></div></center>
 
-<div style='color:red;'>
-
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
 
 ## Welcome
 Welcome to OWASP Nagpur Chapter.The chapter leaders are <a href="mailto:sagar.patra@owasp.org">Sagar Patra</a>, <a href="mailto:prashant.gaurav@owasp.org">Prashant Gaurav</a>.The Chapter's vision is to spread awareness about the Application Security among not just the citizens of Jamshedpur but beyond that too.It will conduct meets every now and then about the trends in the security community.
