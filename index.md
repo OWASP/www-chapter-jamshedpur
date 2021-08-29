@@ -10,7 +10,7 @@ postal-code: 831001
 
 ---
 
-  <img src="https://github.com/OWASP/www-chapter-jamshedpur/blob/main/OWAP%20JAMSHEDPUR%20LOGO.jpg"/>
+  <img src="https://github.com/OWASP/www-chapter-jamshedpur/blob/main/OWAP%20JAMSHEDPUR%20LOGO.jpg?raw=true"/>
 
 
 ## Welcome
