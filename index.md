@@ -10,6 +10,9 @@ postal-code: 831001
 
 ---
 
+  <a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP20thAnniversary.png" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
+  <center><div style="width: 24em; height: 12em;"><a href="https://github.com/OWASP/www-chapter-jamshedpur"><img src="blob/main/OWAP%20JAMSHEDPUR%20LOGO.jpg" style="width: auto; height: auto;" alt="OWASP Nagpur"/></a></div></center>
+
 <div style='color:red;'>
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
