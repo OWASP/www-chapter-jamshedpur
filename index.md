@@ -77,4 +77,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+-[Support](mailto:prashant.gaurav@owasp.org)
 
+-The meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and a willingness to share and learn.
+
+Stay Tuned for new updates..
