@@ -3,5 +3,6 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-jamshedpur-chapter/)
+* [Twitter](https://twitter.com/owaspjamshedpur)
 
 
