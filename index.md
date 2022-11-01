@@ -25,7 +25,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Call for Speakers
 
-Would you like to speak on the upcoming OWASP Jamshedpur Webinar? [Contact Us](mailto:sagar.patra@owasp.org,prashant.gaurav@owasp.org)
+Would you like to speak on the upcoming OWASP Jamshedpur Webinar? 
 
 **Email Format :**
 
@@ -46,11 +46,11 @@ Would you like to speak on the upcoming OWASP Jamshedpur Webinar? [Contact Us](m
 ### Upcoming Meeting
 {% include chapter_events.html group=page.meetup-group %}
 
-[Join Meetup](https://www.meetup.com/OWASP-jamshedpur-Chapter/)
+[Join Meetup]
 
 - Stay tuned for updates
 
--[Support](mailto:sagar.patra@owasp.org,prashant.gaurav@owasp.org)
+
 
 -The meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and a willingness to share and learn.
 
