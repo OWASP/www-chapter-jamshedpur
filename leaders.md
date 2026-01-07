@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ayush Yadav](mailto:ayush.yadav@owasp.org)
+* [Sneha Jana](mailto:sneha.jana@owasp.org)
