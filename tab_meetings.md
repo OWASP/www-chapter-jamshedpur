@@ -12,9 +12,6 @@ Stay updated with our upcoming and past chapter activities.
 ### 📅 Upcoming Events
 
 * Upcoming events will be announced soon.
-* Follow our Meetup page for updates.
-
-👉 Meetup: https://www.meetup.com/
 
 ---
 
