@@ -37,7 +37,7 @@ We welcome speakers from all experience levels.
 
 ---
 
-## Next Meeting/Event(s)
+## Stay Tuned
 
 * Stay tuned for upcoming OWASP Jamshedpur Chapter events!
 * All announcements will be shared on this page only !!
