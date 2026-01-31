@@ -5,14 +5,13 @@ tab: true
 order: 1
 tags: Jamshedpur
 ---
+## Next Meeting
 
-# **Next Meeting**
+**To be updated soon**
 
-## To be Updated soon 
+### Sessions
+- To be shared
 
-### **Sessions**
+### Venue
+To be shared
 
-* To Be Shared
-
-### **Venue:**
-To Be Shared
