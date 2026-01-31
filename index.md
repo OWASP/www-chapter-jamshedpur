@@ -40,15 +40,7 @@ We welcome speakers from all experience levels.
 ## Next Meeting/Event(s)
 
 * Stay tuned for upcoming OWASP Jamshedpur Chapter events!
-* All announcements will be shared on our Meetup page  
-  [OWASP_Jamshedpur_Meetup_Page](https://www.meetup.com/)
-
----
-
-## Video Recordings of Past Events
-
-* Event recordings and session highlights will be shared soon on our official channels.
-* Subscribe once our YouTube channel goes live!
+* All announcements will be shared on this page only !!
 
 ---
 
