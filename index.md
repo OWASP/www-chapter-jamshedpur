@@ -1,87 +1,74 @@
 ---
-
 layout: col-sidebar
 title: OWASP Jamshedpur
-tags: example-tag
+tags: owaspjsr , jamshedpur , next-tag
 region: Asia
 country: India
-meetup-group:
+meetup-group: owasp-jamshedpur
+---
+
+# OWASP Jamshedpur Chapter
+
+![OWASP Jamshedpur Chapter](/assets/images/OWASP_Jamshedpur_banner.png)
+
+**Welcome to the OWASP Jamshedpur chapter homepage!**
+
+The OWASP Jamshedpur chapter is focused on spreading awareness about application security, secure coding practices, and emerging cybersecurity threats.  
+Our goal is to build a strong local community of developers, security professionals, students, and technology enthusiasts who are passionate about security.
+
+OWASP Jamshedpur Chapter is driven by community volunteers committed to knowledge sharing, hands-on learning, and collaboration in the Jamshedpur region.
 
 ---
 
-<div style='color:red;'>
+## Call for Speakers
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+* Are you passionate about application security?
+* Are you a beginner looking to share your learning journey?
+* Are you a professional willing to talk about real-world security challenges?
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+We welcome speakers from all experience levels.
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+*If you'd like to present a talk, please:*
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
+* Review and agree to the OWASP Speaker Agreement  
+  [OWASP_Speaker_Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+* Submit your talk proposal  
+  [OWASP_Speaker_Registration](https://forms.gle/XmkgVeeLrCLgmFcWA)
 
-<li>region: This is the region you are in according to our data</li>
+---
 
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+## Next Meeting/Event(s)
 
-</div>
+* Stay tuned for upcoming OWASP Jamshedpur Chapter events!
+* All announcements will be shared on our Meetup page  
+  [OWASP_Jamshedpur_Meetup_Page](https://www.meetup.com/)
 
-## Welcome
-Include some information here about your chapter
+---
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Video Recordings of Past Events
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+* Event recordings and session highlights will be shared soon on our official channels.
+* Subscribe once our YouTube channel goes live!
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+---
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+## Stay Connected
 
-<!-- You should delete this comment
+* Follow us on social media and stay updated with chapter activities  
+  (Links will be added soon)
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+---
 
-{front matter for this file}
+## Open to All
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Our meetings are **open to everyone** — no OWASP membership is required.  
+Students, professionals, and beginners are all welcome to join and learn.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+---
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Join OWASP or Sponsor Us
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+* Consider [joining OWASP](https://owasp.org/membership/)
+* If you or your organization would like to support the OWASP Jamshedpur community through sponsorship or venue support, please reach out via official OWASP communication channels.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+Together, let’s build a safer and more secure software ecosystem in Jamshedpur 🚀
