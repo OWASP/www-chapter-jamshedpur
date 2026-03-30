@@ -9,6 +9,6 @@ tags: Jamshedpur
 
 | No | Date        | Venue          | Time |
 |----|-------------|---------------|------|
-| 1  | 22 July 2025 | In-Person Meet | 04:00 PM – 06:00 PM IST |
+| 1  | 25 March 2026 | In-Person Meet | 02:00 PM – 04:00 PM IST |
 
 _No membership required — everyone is welcome!_
