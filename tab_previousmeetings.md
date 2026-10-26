@@ -14,6 +14,7 @@ tags: Jamshedpur
 | 3  | 27 June  2026 | In-Person Meet | 01:00 PM – 02:30 PM IST |
 | 4  | 27 July  2026 | In-Person Meet | 02:00 PM – 04:00 PM IST |
 | 5  | 18 Aug.  2026 | In-Person Meet | 09:00 AM – 11:00 AM IST |
+| 6  | 23 Sept  2026 | In-Person Meet | 11:00 AM – 01:00 PM IST |
 
 
 _No membership required — everyone is welcome!_
